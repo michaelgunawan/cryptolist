@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CryptoList</string>
+
+    <string name="demo_screen_button_generate">Generate</string>
+    <string name="demo_screen_button_generating">Generating…</string>
+    <string name="demo_screen_button_sort">Unsorted</string>
+    <string name="demo_screen_button_sort_asc">Name ↑</string>
+    <string name="demo_screen_button_sort_desc">Name ↓</string>
 </resources>
